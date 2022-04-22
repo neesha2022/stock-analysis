@@ -7,6 +7,7 @@ When we started this project, we worked our way by coding for specific requireme
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
 ##**Summary**: In a summary statement, address the following questions
+![Image 1](https://github.com/neesha2022/stock-analysis/blob/main/After%20refactoring%20-2017.png)
 
 ##**1. What are the advantages or disadvantages of refactoring code?**
 
