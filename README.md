@@ -8,10 +8,18 @@ Using images and examples of your code, compare the stock performance between 20
 
 ##**Summary**: In a summary statement, address the following questions
 Before refactoring the code -2017
-![Image 2] (https://github.com/neesha2022/stock-analysis/blob/main/Before%20refactoring%20-2017.png)
+
+![Image 2](https://github.com/neesha2022/stock-analysis/blob/main/Before%20refactoring%20-2017.png)
 
 After refactoring the code-2017
 ![Image 1](https://github.com/neesha2022/stock-analysis/blob/main/After%20refactoring%20-2017.png)
+
+Before refactoring the code -2018
+![Image 3](https://github.com/neesha2022/stock-analysis/blob/main/Before%20refactoring%20-2018.png)
+
+After refactoring the code -2018
+![Image 4](https://github.com/neesha2022/stock-analysis/blob/main/After%20refactoring%20-2018.png)
+
 
 ##**1. What are the advantages or disadvantages of refactoring code?**
 
