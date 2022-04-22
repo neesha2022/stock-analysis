@@ -1,4 +1,4 @@
-##Stock-analysis**
+#**Stock-analysis**
 ##**Overview of Project: Explain the purpose of this analysis**
 
 When we started this project, we worked our way by coding for specific requirements and started implementing individually by coding for calculating the total daily volume, the return on stocks in DQ analysis and use conditional highlighting. We learned to write code by using variables, creating loops, writing if-then statements, etc. 
@@ -7,17 +7,17 @@ When we started this project, we worked our way by coding for specific requireme
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
 ##**Summary**: In a summary statement, address the following questions
-Before refactoring the code -2017
+###Before refactoring the code -2017
 
 ![Image 2](https://github.com/neesha2022/stock-analysis/blob/main/Before%20refactoring%20-2017.png)
 
-After refactoring the code-2017
+###After refactoring the code-2017
 ![Image 1](https://github.com/neesha2022/stock-analysis/blob/main/After%20refactoring%20-2017.png)
 
-Before refactoring the code -2018
+###Before refactoring the code -2018
 ![Image 3](https://github.com/neesha2022/stock-analysis/blob/main/Before%20refactoring%20-2018.png)
 
-After refactoring the code -2018
+###After refactoring the code -2018
 ![Image 4](https://github.com/neesha2022/stock-analysis/blob/main/After%20refactoring%20-2018.png)
 
 
@@ -33,6 +33,7 @@ Code refactoring can be time consuming. We may have no idea how much time it may
 We also need to make sure that tests need to be maintained because whenever requirements change, you would like to vary the code and tests. This suggests that you simply got to change the tests first then make the tests pass. So, actually, this disadvantage is that the same as before when writing code that apparently takes an extended time.
 
 ##**How do these pros and cons apply to refactoring the original VBA script?**
-Pros: The runtime decreased after refactoring the code. 
+Pros: The runtime for the original VBA script was less compared to the one after refactoring. 
 Cons: After refactoring, it increased the runtime and it took a considerable amount of time to figure out the mistake. Also testing needs to be done whether refactoring has improved the efficiency or not. 
+
 
